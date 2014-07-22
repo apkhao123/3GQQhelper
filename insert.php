@@ -114,14 +114,3 @@ HTML;
 
 
 require("footer.php");
-
-
-
-
-
-
-
-
-
-
-
